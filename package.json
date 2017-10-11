@@ -1,0 +1,19 @@
+{
+  "name": "realtimechat",
+  "version": "1.0.0",
+  "description": "real time web chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerocinque/RealTimeChat.git"
+  },
+  "author": "Luigi Bottasso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerocinque/RealTimeChat/issues"
+  },
+  "homepage": "https://github.com/zerocinque/RealTimeChat#readme"
+}
