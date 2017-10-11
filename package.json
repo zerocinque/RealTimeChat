@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/zerocinque/RealTimeChat/issues"
   },
-  "homepage": "https://github.com/zerocinque/RealTimeChat#readme"
+  "homepage": "https://github.com/zerocinque/RealTimeChat#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "pug": "^2.0.0-rc.4",
+    "socket.io": "^2.0.3"
+  }
 }
